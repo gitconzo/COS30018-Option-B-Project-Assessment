@@ -1,1 +1,2 @@
-
+This folder was created to neatly organise the github. It contains the exact same files outside the folder for Task B.1 - Setup, however some have different file names. 
+If you are planning to assess my Tasks B.1, it was submitted ontime before the deadline, apparent by the file upload date of the original files and the email sent to my tutor. This folder is simply to make my github easier to navigate in the future.
