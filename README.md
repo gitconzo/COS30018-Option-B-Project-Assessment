@@ -8,5 +8,6 @@ This is my github repository that contains all the files created for the Project
 
 [Tasks B.3 - Data Processing 2](https://github.com/gitconzo/COS30018-Option-B-Project-Assessment/tree/main/Tasks%20B.3%20-%20Data%20processing%202)
 
+[Tasks B.4 - Machine Learning 1](https://github.com/gitconzo/COS30018-Option-B-Project-Assessment/tree/main/Tasks%20B.4%20-%20Machine%20Learning%201)
 
 My 'Tasks B.1 - setup' files were submitted ontime and prior to the due date. These files are in the main repo outside of the tasks b.1 folder. The tasks b.1 folder was created after to help make the github repo more neat. The folder contains the same files as in the main repo, however with different filenames. 
